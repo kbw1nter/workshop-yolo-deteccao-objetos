@@ -88,7 +88,7 @@ A implementação suporta **80 classes de objetos** do dataset COCO, incluindo:
 - **Pessoas**: pessoa (com capacidades de estimativa de pose)
 - **Objetos**: móveis, eletrônicos, equipamentos esportivos, utensílios de cozinha
 
-```
+[Lista das 80 classes treinadas no YOLOv8](https://gist.github.com/rcland12/dc48e1963268ff98c8b2c4543e7a9be8)
 
 ## 🎯 Conquistas Técnicas
 
