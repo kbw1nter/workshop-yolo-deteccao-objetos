@@ -1,4 +1,4 @@
-# Redes Neurais Aplicadas à Detecção de Objetos em Imagens com YOLO
+# Redes Neurais Aplicadas à Detecção de Objetos com YOLO
 
 Este repositório apresenta uma implementação completa de detecção de objetos utilizando YOLOv8 (You Only Look Once), desenvolvida como parte do workshop técnico apresentado na SACOMP 2025 - UFPel.
 
